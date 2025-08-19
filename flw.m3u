@@ -7,7 +7,7 @@ http://45.5.151.151:8000/play/a0lk/index.m3u8
 http://143.0.67.77:8000/play/a02g/index.m3u8
 
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", America
-http://138.121.114.50:8000/play/a09y/index.m3u8
+http://143.0.67.77:8000/play/a055/index.m3u8
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefe
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8 
@@ -16,16 +16,16 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 https://val02.ride.com.ar/tvmia/an04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Nacionales", El Trece
-http://138.121.114.50:8000/play/a06d/index.m3u8
+http://143.0.67.77:8000/play/a0bg/index.m3u8
 
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
-http://138.121.114.50:8000/play/a09q/index.m3u8
+http://143.0.67.77:8000/play/a04h/index.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Nacionales", TN
 http://143.0.67.77:8000/play/a058/index.m3u8
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales", A24
-http://138.121.114.50:8000/play/a01o/index.m3u8
+http://143.0.67.77:8000/play/a01o/index.m3u8
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N
 http://143.0.67.77:8000/play/a01p/index.m3u8
@@ -338,7 +338,7 @@ http://186.125.218.199:13000/play/a02j/index.m3u8
 http://160.20.165.246:8000/play/a009/index.m3u8
 
 #EXTINF:-1 tvg-id="CanalRural.ar" tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="Varios", Rural TV
-http://138.121.114.50:8000/play/a02f/index.m3u8
+http://143.0.67.77:8000/play/a02f/index.m3u8
 
 
 
